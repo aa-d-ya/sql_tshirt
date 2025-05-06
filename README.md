@@ -1,4 +1,4 @@
-# T-Shirt Inventory Query System 👕
+# Inventory Query System 
 
 This repository implements a **T-Shirt Inventory Query System** that allows you to query a MySQL database containing information about t-shirt stock, sales, and discounts using **Natural Language Processing (NLP)** and **Few-shot Learning** techniques. The system is built using **LangChain**, **Google Generative AI**, and **Streamlit** for a seamless interactive web interface.
 
